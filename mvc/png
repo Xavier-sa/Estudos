@@ -1,0 +1,7 @@
+Conceito 
+
+M
+V
+C
+
+É um padrão de arquitetura de software separando susa aplicação em 3 camadas. A camada de interação do usuario (VIEW), a camada de manipulação dos dados (MODEL) e a camada de controle(CONTROLLER).
